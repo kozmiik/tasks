@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import image from "./banana.webp";
+//import image from "./banana.webp";
 import { Button, Col, Container, Row } from "react-bootstrap";
 
 function App(): JSX.Element {
